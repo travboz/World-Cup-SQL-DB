@@ -21,7 +21,7 @@ When in the folder containing the `worldcup.sql` file, run the following command
 
 Using a program like [pgAdmin](https://www.pgadmin.org/download/) you can inspect the architecture of the database. Alternatively, you can use SQL queries to explore.
 
-There exist five tables with each table containing related information pertaining to stars, planets, galaxies, spacecraft, and moons.
+There exist two tables with each table containing related information pertaining to the teams, and the games played between teams.
 
 | Table Name  | Description                                                                                                           |
 |-------------|-----------------------------------------------------------------------------------------------------------------------|
