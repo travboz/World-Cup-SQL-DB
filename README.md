@@ -1,8 +1,6 @@
 # Football World Cup Database created using PostgreSQL
 This repository contains the code used to create a Relaitional Database that focuses on the topic of World Cup Football data. This is a PostgreSQL database.
 
-**INFORMATION BELOW IS PLACEHOLDER for formatting and structure**
-
 ## Dependencies
 - [PostgreSQL](https://www.postgresql.org/download/)
 
